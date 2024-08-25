@@ -1,5 +1,5 @@
 # file-reader-project
-Overview
+# Overview
 This project demonstrates the use of machine learning algorithms to predict the onset of diabetes based on various medical attributes. The dataset used for this project is the Pima Indians Diabetes Database, which contains several diagnostic measurements and the corresponding diagnosis (whether the patient has diabetes or not).
 
 The project is structured as a series of exercises focusing on different machine learning models, including Decision Trees and Naive Bayes classifiers.
